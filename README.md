@@ -1,2 +1,7 @@
-# dddd
-ddddd
+A- " A "
+B- " A "
+C- " HÁ "
+D- " HÁ "
+E- " HÁ "
+F- " A "
+G- " A "
